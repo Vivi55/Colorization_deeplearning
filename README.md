@@ -1,5 +1,5 @@
 # Colorization_deeplearning
-<p>The final thesis for me in the AUT around colorizing the grayscale CT images. Two deep learning networks are utilized to generate the colorful CT lung images. </p>
+<p>My final thesis at AUT around colorizing the grayscale CT images. Two deep learning networks are utilized to generate the colorful CT lung images. </p>
 <p>VGG-19 and ResNet based on exemplar colorization and full-automatic colorization, respectively. </p>
 <p>As for exemplar colorization, the crucial question is to select appropriate reference images to extract the colours for the target images. Due to the colours of meat from animals is resemble the human lungs, so fresh pork, lamb, beef, and even rotten meat (for infected lung) are collected to prepare for the models transferring the style and texture to the target images. </p>
 <p>
